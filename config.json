@@ -1,0 +1,16 @@
+{
+  "num_epochs": 200,
+  "display_iter": 100,
+  "save_iter": 1000,
+  "lr_init": 0.0001,
+  "batch_size": 64,
+  "zdim": 100,
+  "n_classes": 10,
+  "dropout": 0.2,
+  "im_size": 128,
+  "seed": 1234,
+  "data_root": "Dataset/wikiart",
+  "init_iter": 70000,                       
+  "resume_G": "models/Genre128GANAE/G_70000.pth",
+  "resume_D": "models/Genre128GANAE/D_70000.pth"
+}
