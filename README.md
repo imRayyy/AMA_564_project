@@ -69,7 +69,6 @@ After downloading, place the dataset in the `Dataset/wikiart` directory.
 
  Automatic saving of the latest model to models/
 
---
 
 ## Hardware Requirements
 To efficiently run this project, the following computational resources are recommended:  
