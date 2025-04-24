@@ -3,7 +3,7 @@
 **If there is any problem, please email me at [24064519g@connect.polyu.hk](mailto:24064519g@connect.polyu.hk) .**
 
 # Project Overview
-This project implements an Art Generation Adversarial Network (ArtGAN) using PyTorch, trained on the WikiArt dataset.However, since the original project(https://github.com/cs-chan/ArtGAN/tree/master) was too early and the Python and Tensorflow versions were too low, this project is based on Python 3.0 and above and pytorch. The results may deviate from the original project. Possible reasons include the differences between Tensorflow and pytorch and the version issues of related libraries.
+This project implements an Art Generation Adversarial Network (ArtGAN) using PyTorch, trained on the WikiArt dataset. However, since the original project(https://github.com/cs-chan/ArtGAN/tree/master) was too early and the Python and Tensorflow versions were too low, this project is based on Python 3.0 and above and pytorch. The results may deviate from the original project. Possible reasons include the differences between Tensorflow and pytorch and the version issues of related libraries.
 
 Requirement:
 
